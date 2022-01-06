@@ -13,3 +13,4 @@ Central Banking and Monetary Policy. I utilize diverse softwares to Conduct Econ
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/madisuryapr)](https://www.linkedin.com/in/madisuryapr/)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/madisuryapr/)](https://github.com/madisuryapr)
+[![Tableau Badge](http://img.shields.io/badge/-Tableau-orange?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/profile/madisuryapr#!/)](https://public.tableau.com/app/profile/madisuryapr#!/)
