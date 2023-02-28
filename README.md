@@ -1,10 +1,10 @@
 # Hello Everyone! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 
-My name is Muhammad Adisurya Pratama. I'm a Bachelor of Economics (S.E.) from Faculty of Economics and Business, Lambung Mangkurat University, majoring Development Economics.
-Curently, I'm focusing my learning progress and enhancing technical skills around Data Analytics and Business Intelligence. Furthermore, my domain knowledge are around Econometrics, Macroeconomics, Central Banking and Monetary Policy, and Time Series Analysis. I utilize diverse softwares to underpin my econometrics works, including GAUSS Light 21, Eviews 12, and STATA 17. In Addition, I also employ some softwares to underpin my learning progress, namely:
-- ✴️ PostgreSQL 14
+I would like to introduce myself. Muhammad Adisurya Pratama is my name, however, you can call me Adisurya in short. I'm a Bachelor of Economics (S.E.) graduate from Faculty of Economics and Business, University of Lambung Mangkurat, majoring Development Economics. I have one year experience as research assistant at Central Bank of Indonesia.
+Currently, I focus in continuing my learning progress and enhancing technical skills around Data Analytics and Business Intelligence. Furthermore, my domain knowledge are around Econometrics, Macroeconomic, Time Series Analysis and Statistics for Economics and Business. I utilize diverse softwares to underpin my econometrics works, including GAUSS Light 21, Eviews 12, and STATA 17. In Addition to employing econometrics softwares, several data analytics and BI softwares are also employed to underpin my learning progress, including:
+- ✴️ PostgreSQL 15
 - ✳️ DataGrip 2022
-- ✴️ Tableau Desktop 2022.2
+- ✴️ Tableau Desktop 2022.4
 
 ----
 
