@@ -3,7 +3,7 @@
 Muhammad Adisurya Pratama is my name, however, you can call me Adisurya in short. I graduated from Lambung Mangkurat University, majoring Development Economics. Having one year of experience as a Research Assistant at the Central Bank of Indonesia, I built and designed commercial bank deposit rates for 47 banks in Indonesia. Furthermore, I also learned to provide structural thinking and effective communication in conveying research findings. Additionally, I was also supervised by a senior researcher in preparing and creating lecture materials regarding Open Economy. One of experience has provided me with solid interest to Business Intelligence and Data Analytics.
 
 
-Currently, I focus in continuing my learning progress and enhancing technical skills around Data Analytics and Business Intelligence (such as Tableau and SQL). Furthermore, my domain knowledge are around Econometrics, Macroeconomic, Time Series Analysis and Statistics for Economics and Business. In supporting my analytics work, I utilize Structured Query Languages (SQL) and Data Visualization softwares, including:
+Currently, I focus in continuing my learning progress and enhancing technical skills around Data Analytics and Business Intelligence (such as Tableau and Structured Query Languages/SQL). Furthermore, my domain knowledge are around Econometrics, Macroeconomic, Time Series Analysis and Statistics for Economics and Business. In supporting my analytics work, I utilize SQL and Data Visualization softwares, including:
 - ✴️ PostgreSQL 15
 - ✳️ DataGrip 2022
 - ✴️ Tableau
