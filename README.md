@@ -1,13 +1,13 @@
-# Hello Everyone! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
+# Hello Everyone, It's a Pleasure to Meet You! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 
-Muhammad Adisurya Pratama is my name, however, you can call me Adisurya in short. I graduated from Lambung Mangkurat University, majoring Development Economics. Having one year of experience as a Research Assistant at the Central Bank of Indonesia, I built and designed commercial bank deposit rates for 47 banks in Indonesia. Furthermore, I also learned to provide structural thinking and effective communication in conveying research findings. Additionally, I was also supervised by a senior researcher in preparing and creating lecture materials regarding Open Economy. One of experience has provided me with solid interest to Business Intelligence and Data Analytics.
+Muhammad Adisurya Pratama is my name, however, you can call me Adisurya for short. I obtained Bachelor of Economics degree from Lambung Mangkurat University, Majoring Development Economics. Having one year of experience as a Research Assistant at the Central Bank of Indonesia, I built and designed commercial bank deposit rates for 47 banks in Indonesia. Furthermore, I also learned to provide structural thinking and effective communication in conveying research findings. Additionally, I was also supervised by a senior researcher in preparing and creating lecture materials regarding Open Economy. One of experience has provided me with solid interest to Business Intelligence and Data Analytics.
 
 
 Currently, I focus in continuing my learning progress and enhancing technical skills around Data Analytics and Business Intelligence (such as Tableau and Structured Query Languages/SQL). Furthermore, my domain knowledge are around Econometrics, Macroeconomic, Time Series Analysis and Statistics for Economics and Business. In supporting my analytics work, I utilize SQL and Data Visualization softwares, including:
 - ✴️ PostgreSQL 15
+- ✴️ Microsoft SQL Server 2022
 - ✳️ DataGrip 2022
-- ✴️ Tableau
-- ✴️ Microsoft SQL Server
+- ✴️ Tableau Desktop
 
 ----
 
