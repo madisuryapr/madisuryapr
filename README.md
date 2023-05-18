@@ -1,6 +1,6 @@
 # Hello Everyone, It's a Pleasure to Meet You! <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 
-Muhammad Adisurya Pratama is my name, however, you can call me Adisurya for short. I obtained Bachelor of Economics degree from Lambung Mangkurat University, Majoring Development Economics. Having one year of experience as a Research Assistant at the Central Bank of Indonesia, I built and designed commercial bank deposit rates for 35+ banks in Indonesia. Furthermore, I also learned to provide structural thinking and effective communication in conveying research findings. Additionally, I was also supervised by a senior researcher in preparing and creating lecture materials regarding Open Economy. Currently, I continue my learning progress in regards to Business Intelligence and Data Analytics.
+Muhammad Adisurya Pratama is my name, however, you can call me Adisurya. I obtained Bachelor of Economics degree from Lambung Mangkurat University, Majoring Development Economics. Having one year of experience as a Research Assistant at the Central Bank of Indonesia, I built and designed commercial bank deposit rates for 35+ banks in Indonesia. Furthermore, I also learned to provide structural thinking and effective communication in conveying research findings. Additionally, I was also supervised by a senior researcher in preparing and creating lecture materials regarding Open Economy. Currently, I continue my learning progress in regards to Business Intelligence and Data Analytics, including R programming, SQL, and Tableau .
 
 
 Currently, I focus in continuing my learning progress and enhancing technical skills around Data Analytics and Business Intelligence (such as Tableau and Structured Query Languages/SQL). Furthermore, my domain knowledge are around Econometrics, Macroeconomic, Time Series Analysis and Statistics for Economics and Business. In supporting my analytics work, I utilize SQL and Data Visualization softwares, including:
@@ -9,8 +9,6 @@ Currently, I focus in continuing my learning progress and enhancing technical sk
 - ✳️ DataGrip 2022
 - ✴️ Tableau Desktop
 
-----
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=madisuryapr.madisuryapr)
 ----
 
 #### 📮 Let's Get Connected on
