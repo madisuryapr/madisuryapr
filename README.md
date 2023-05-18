@@ -10,6 +10,8 @@ Currently, I focus in continuing my learning progress and enhancing technical sk
 - ✴️ Tableau Desktop
 
 ----
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madisuryapr.madisuryapr)
+----
 
 #### 📮 Let's Get Connected on
 
