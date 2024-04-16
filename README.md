@@ -1,13 +1,15 @@
 # Hello Everyone, Welcome to My GitHub Gallery <img src="https://raw.githubusercontent.com/ptyadana/ptyadana/master/wave.gif" width="30px">
 
-Muhammad Adisurya Pratama is my name, however, call me Adisurya for short. I obtained Bachelor of Economics degree from Lambung Mangkurat University, Majoring Development Economics. Having one year of experience as a Research Assistant at the Central Bank of Indonesia, I built and designed commercial bank deposit rates for 35+ banks in Indonesia. Furthermore, I also learned to provide structural thinking and effective communication in conveying research findings.
+Muhammad Adisurya Pratama is my name, however, call me Adisurya for short. I obtained Bachelor of Economics degree from Lambung Mangkurat University, Majoring Development Economics. Furthermore, my domain knowledge are around Econometrics, Macroeconomics, Time Series Analysis and Statistics for Economics and Business. Having two years of experience in analyzing and interpreting data, particularly economic and finance landscapes, I have devised and designed various portfolios on data analytics and business intelligence, including dashboard, R Markdown, and SQL Databases. I also performed ETL routine for data preparation and transformation to support my scope of works as a researcher.
 
 
-Currently, I focus in continuing my learning progress and enhancing technical skills around Data Analytics and Business Intelligence (such as Tableau and Structured Query Languages/SQL). Furthermore, my domain knowledge are around Econometrics, Macroeconomic, Time Series Analysis and Statistics for Economics and Business. In supporting my analytics work, I utilize SQL and Data Visualization softwares, including:
-- ✴️ PostgreSQL 15
+Currently, I continue my learning progress and enhancing technical skills around Data Engineering and Business Intelligence (such as Tableau and SQL). In supporting my analytics work, I utilize Diverse software, including:
+- ✴️ PostgreSQL 16
 - ✴️ Microsoft SQL Server 2022
 - ✳️ DataGrip 2022
-- ✴️ Tableau
+- ✴️ Tableau Desktop
+- ✳️ Tableau Prep Builder
+- ✴️ R Language
 
 ----
 
