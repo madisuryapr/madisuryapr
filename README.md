@@ -6,7 +6,7 @@ Muhammad Adisurya Pratama is my name, however, call me Adisurya for short. I obt
 Currently, I continue my learning progress and enhancing technical skills around Data Engineering and Business Intelligence (such as Tableau and SQL). In supporting my analytics work, I utilize Diverse software, including:
 - ✴️ PostgreSQL 16
 - ✴️ Microsoft SQL Server 2022
-- ✳️ DataGrip 2022
+- ✳️ DataGrip 2024
 - ✴️ Tableau Desktop
 - ✳️ Tableau Prep Builder
 - ✴️ R Language
